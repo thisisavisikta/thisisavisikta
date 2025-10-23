@@ -1,24 +1,13 @@
 <p align="center">
-  <img src="a3y6hp.gif" alt="Demo GIF" width="400">
+  
 </p>
-#Love for All
 
-💫 About Me:
+B.Tech Student in Computer Science and Engineering with a specialization in Cyber Security.
 
-🔭 I’m currently working on:
-
-🌱 3D Garden for Education – An immersive 3D learning environment built with React Three Fiber
-🩸 LifeFlow – A smart blood donation system with real-time matching, Uber-style booking & SwiftUI app
-🎮 FearRun Game – A 3D React Three Fiber survival game with FPP/TPP switch, enemy AI & immersive gameplay
-🌱 I’m currently learning: React Native, OpenCV, AI Integration, and SwiftUI
-👯 I’m looking to collaborate on: AI, ML, EdTech, Web3, and Hackathon Projects
-🤝 I’m open to help with: Web & Mobile Development, Firebase, AI Features, and Game Dev (R3F/Unity)
-
-🏆 Fun Fact: I’m a 7x Hackathon Winner & 13x Finalist
 
 ## 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,next,python,flask,tailwind,aws,git,github,linux,swift,mongodb,mysql,docker,postgres&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,linux,mysql,docker,&perline=9" />
 </p>
 
 # Git Stats 📊
@@ -54,14 +43,8 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisavisikta/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anindya_iitm/)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thisisavisikta)
-
 ---
-
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
