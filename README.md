@@ -2,7 +2,9 @@
   
 </p>
 
+- About Me:
 B.Tech Student in Computer Science and Engineering with a specialization in Cyber Security.
+Always Learning! :)
 
 
 ## 🛠️ Tech Stack & Tools  
