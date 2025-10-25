@@ -1,8 +1,8 @@
 <p align="center">
-  
+ - About Me: 
 </p>
 
-- About Me: <br>
+ <br>
 I'm a first-year B.Tech Student in Computer Science and Engineering, specializing in Cyber Security. <br>
 I believe in continuously building my skills and seeking out new knowledge, viewing every resource and experience as an opportunity for growth. <br>
 I'm here to learn and contribute as much as I can! :)
