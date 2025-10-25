@@ -41,7 +41,6 @@ I'm here to learn and contribute as much as I can! :)
       </td>
     
   </table>
----
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisavisikta/) 
