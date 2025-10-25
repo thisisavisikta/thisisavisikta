@@ -7,12 +7,12 @@ I believe in continuously building my skills and seeking out new knowledge, view
 I'm here to learn and contribute as much as I can! :)
 
 
-# 🛠️ Tech Stack & Tools  
+# 🛠️ My Toolbox  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,javascript,css,python,git,github,linux,mysql,java,cpp,react&perline=9" />
 </p>
 
-# Git Stats 📊
+# My Git Stats 📊
   
 <table>
   <tr>
