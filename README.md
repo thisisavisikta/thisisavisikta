@@ -3,9 +3,9 @@
 </p>
 
 - About Me: <br>
-B.Tech Student in Computer Science and Engineering with a specialization in Cyber Security.
-Always Learning! :)
-
+I'm a first-year B.Tech Student in Computer Science and Engineering, specializing in Cyber Security. 
+I believe in continuously building my skills and seeking out new knowledge, viewing every resource and experience as an opportunity for growth. 
+I'm here to learn and contribute as much as I can! :)
 
 ## 🛠️ Tech Stack & Tools  
 <p align="center">
