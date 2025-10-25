@@ -7,7 +7,7 @@ I believe in continuously building my skills and seeking out new knowledge, view
 I'm here to learn and contribute as much as I can! :)
 
 
-## 🛠️ Tech Stack & Tools  
+# 🛠️ Tech Stack & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,javascript,css,python,git,github,linux,mysql,docker,&perline=9" />
 </p>
@@ -43,7 +43,7 @@ I'm here to learn and contribute as much as I can! :)
   </table>
 ---
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisavisikta/) 
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thisisavisikta)
 ---
