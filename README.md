@@ -28,16 +28,16 @@ I'm here to learn and contribute as much as I can! :)
       </td>
      <td>
         <img 
-         src="https://github-readme-stats.vercel.app/api?username=thisisavisikta&theme=blue-green&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
+         src="https://github-readme-stats.vercel.app/api?username=thisisavisikta&theme=dracula&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
       </td>
      </tr>
   </table>
   <table>
    <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisavisikta&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisavisikta&theme=dracula" alt="GitHub Summary Card"/>
    </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavisikta&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavisikta&theme=dracula&layout=donut&hide_border=true" alt="Top Languages"/>
       </td>
     
   </table>
