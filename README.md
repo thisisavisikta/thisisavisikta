@@ -24,7 +24,7 @@ I'm here to learn and contribute as much as I can! :)
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=thisisavisikta&theme=chartreuse_dark&hide_border=true" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=thisisavisikta&theme=dracula&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9" alt="GitHub Streak"/>
       </td>
      <td>
         <img 
