@@ -14,16 +14,22 @@ I'm here to learn and contribute as much as I can! :)
 
 # My Git Stats 📊
   
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisavisikta&theme=github-compact&point=ff79c6&line=ff79c6&area=true&area_color=bd93f9&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
-</div>
-<br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisavisikta&theme=github-compact&point=ff79c6&line=ff79c6&area=true&area_color=bd93f9&hide_border=true" alt="GitHub Activity Graph"/>
+    </td>
+  </tr>
+</table>
 
-  <table>
+
+ <table>
     <tr>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=thisisavisikta&theme=dracula&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9" alt="GitHub Streak"/>
       </td>
+    </tr>
+    <tr>
      <td>
         <img 
          src="https://github-readme-stats.vercel.app/api?username=thisisavisikta&theme=dracula&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
