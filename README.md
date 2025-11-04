@@ -17,7 +17,7 @@ I'm here to learn and contribute as much as I can! :)
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisavisikta&theme=dracula&point=ff69b4&line=ff69b4&area=true&area_color=ff69b4&hide_border=true" alt="GitHub Activity Graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisavisikta&theme=github-compact&point=ff79c6&line=ff79c6&area=true&area_color=bd93f9&hide_border=true" alt="GitHub Activity Graph"/>
     </td>
   </tr>
 </table>
