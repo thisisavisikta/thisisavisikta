@@ -9,7 +9,7 @@ I'm here to learn and contribute as much as I can! :)
 
 # 🛠️ My Toolbox  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,javascript,css,python,git,github,linux,mysql,java,cpp,react&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,javascript,python,java,cpp,mysql,git,github,linux&perline=9" />
 </p>
 
 # My Git Stats 📊
