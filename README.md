@@ -36,18 +36,16 @@ I'm here to learn and contribute as much as I can! :)
       </td>
      </tr>
   </table>
-  <table>
-   <td>
-     <tr>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisavisikta&theme=dracula" alt="GitHub Summary Card"/>
-     </tr>
-   </td>
+<table>
+  <tr>
     <td>
-       <tr>        
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavisikta&theme=dracula&layout=donut&hide_border=true" alt="Top Languages"/>
-       </tr>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisavisikta&theme=dracula" alt="GitHub Summary Card"/>
     </td>
-   </table>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavisikta&theme=dracula&layout=donut&hide_border=true" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 --- 
 
