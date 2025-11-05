@@ -54,7 +54,7 @@ I'm here to learn and contribute as much as I can! :)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thisisavisikta)
 ---
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="GitHub Quote Card"/>
 
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=thisisavisikta&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
