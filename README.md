@@ -57,7 +57,7 @@ I'm here to learn and contribute as much as I can! :)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thisisavisikta&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=thisisavisikta&limit=5&theme=dracula&combine_all_yearly_contributions=true" width="100%" alt="GitHub Contributor Stats"/>
 
 
 
