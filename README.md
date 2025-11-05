@@ -9,7 +9,7 @@ I'm here to learn and contribute as much as I can! :)
 
 # 🛠️ My Toolbox  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,javascript,python,java,cpp,mysql,git,github,linux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,javascript,python,java,cpp,mysql,git,github,linux&perline=9&theme=dark" width="100%" alt="Skills"/>
 </p>
 
 # My Git Stats 📊
@@ -47,8 +47,7 @@ I'm here to learn and contribute as much as I can! :)
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisavisikta&theme=dracula&layout=donut&hide_border=true" alt="Top Languages"/>
        </tr>
     </td>
-    
-  </table>
+   </table>
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisavisikta/) 
