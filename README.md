@@ -17,7 +17,7 @@ I'm here to learn and contribute as much as I can! :)
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisavisikta&theme=github-compact&point=ff79c6&line=ff79c6&area=true&area_color=bd93f9&hide_border=true" alt="GitHub Activity Graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisavisikta&theme=github-compact&point=ff79c6&line=ff79c6&area=true&area_color=bd93f9&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
     </td>
   </tr>
 </table>
@@ -57,7 +57,7 @@ I'm here to learn and contribute as much as I can! :)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=thisisavisikta&limit=5&theme=dracula&combine_all_yearly_contributions=true" width="100%" alt="GitHub Contributor Stats"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=thisisavisikta&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
 
 
 
