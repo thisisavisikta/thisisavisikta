@@ -10,7 +10,7 @@ I'm here to learn and contribute as much as I can! :)
 # 🛠️ My Toolbox  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,java,c,git,github,linux,html,javascript&perline=10&theme=dark" alt="Skills"/>
-  <br>
+  
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
