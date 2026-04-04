@@ -1,22 +1,15 @@
+## Welcome to My GitHub Account
 
-# About Me
-
- <br>
-I'm a first-year B.Tech Student in Computer Science and Engineering, specializing in Cyber Security. <br>
-I believe in continuously building my skills and seeking out new knowledge, viewing every resource and experience as an opportunity for growth. <br>
-I'm here to learn and contribute as much as I can! :)
-
-
-# 🛠️ My Toolbox  
+# Tech Stack 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,java,c,git,github,linux,html,javascript&perline=10&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,java,c,github,linux,html&perline=10&theme=dark" alt="Skills"/>
   
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 </p>
 
-# My Git Stats 📊
+# GitHub Stats 
   
 <table>
   <tr>
@@ -55,7 +48,6 @@ I'm here to learn and contribute as much as I can! :)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisavisikta/) 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thisisavisikta)
 ---
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="GitHub Quote Card"/>
