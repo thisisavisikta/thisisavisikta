@@ -1,6 +1,6 @@
-## Welcome to My GitHub Account
+# Welcome to My GitHub Account
 
-# Tech Stack 
+## Tech Stack 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,java,c,github,linux,html&perline=10&theme=dark" alt="Skills"/>
   
@@ -9,7 +9,7 @@
 
 </p>
 
-# GitHub Stats 
+## GitHub Stats 
   
 <table>
   <tr>
