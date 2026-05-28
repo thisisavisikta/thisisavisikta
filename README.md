@@ -1,4 +1,4 @@
-<h2 align="center">✨ hey there! welcome to my purr-sonal readme 🐾</h1>
+<h1 align="center">✨ hey there! welcome to my purr-sonal readme 🐾</h1>
 <h4 align="center">⋆˙⟡ I'm here only when I feel like experimenting with codes. ⋆˙⟡</h3>
 
 
@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">⭑✮💻⊹ Languages & Tools:</h3>
+<h2 align="center">⭑✮💻⊹ Languages & Tools:</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
@@ -25,14 +25,14 @@
 
 
 
-<h3 align="center">🌸 Connect with me:</h3>
+<h2 align="center">🌸 Connect with me:</h2>
 <p align="center">
   <a href="mailto:thisisavisikta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-pink?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
 
-<h3 align="center">⭑✮💻⊹ Random Dev Quote:</h3>
+<h2 align="center">⭑✮💻⊹ Random Dev Quote:</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="GitHub Quote Card"/>
 </p>
